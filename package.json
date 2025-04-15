@@ -1,7 +1,6 @@
 {
   "name": "bsr-api",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --port 3000"
   },
